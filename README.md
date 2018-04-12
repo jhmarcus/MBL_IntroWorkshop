@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jhmarcus/MBL_IntroWorkshop/master)    
+
 # MBL_IntroWorkshop
 MBL Intro Workshop 
 
